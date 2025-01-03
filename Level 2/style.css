@@ -1,0 +1,47 @@
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+} */
+
+#amazon_div{
+    background-color: black;
+    height: 60px;
+}
+
+a{
+    margin-right: 200px;
+    color: white;
+    text-decoration: none;
+}
+
+button{
+    background-color: #f08804;
+}
+
+#home{
+    font-size: 25px;
+    color: orange;
+}
+
+.content_div{
+   height: 100px;
+   width: 100px;
+   border: 2px solid black;
+  display: inline-block;
+   
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+#content{
+    height: 880px;
+}
+
+
+
