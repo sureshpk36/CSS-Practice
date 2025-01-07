@@ -1,0 +1,10 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-image: url(daniel-korpai-Yb7QDpcvzb4-unsplash.jpg);
+    background-size: cover ;
+    position: fixed;
+    right: 0px;
+    top: 200px;
+}
+
